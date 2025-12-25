@@ -1,7 +1,0 @@
-{
-  "build": {
-    "env": {
-      "NODEJS_18_X": "true"
-    }
-  }
-}
